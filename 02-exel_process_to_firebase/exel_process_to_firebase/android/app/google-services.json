@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977709417032",
+    "project_id": "csvdatabase-22b63",
+    "storage_bucket": "csvdatabase-22b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977709417032:android:b8675bc1a4e14370dbce7d",
+        "android_client_info": {
+          "package_name": "com.example.excel_process"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLPJkOiJ0t0AqQ74zbnS7YyBtUv6k5eTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977709417032:android:b97fddaf0bd47d25dbce7d",
+        "android_client_info": {
+          "package_name": "com.machine.exel_process_to_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLPJkOiJ0t0AqQ74zbnS7YyBtUv6k5eTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
